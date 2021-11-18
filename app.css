@@ -1,0 +1,64 @@
+body {
+  padding: 30px;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+}
+
+.search-form {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.date {
+  margin-top: 15px;
+}
+
+.date,
+.time {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.current-temp {
+  margin-top: -15px;
+  margin-bottom: 10px;
+}
+
+.temperature {
+  font-weight: 500;
+  font-size: 55px;
+}
+
+.units {
+  font-weight: 500;
+  font-size: 20px;
+  position: relative;
+  top: -23px;
+}
+
+a {
+  text-decoration: none;
+}
+
+i.fa-sun {
+  color: #ffa726;
+}
+i.fa-cloud-showers-heavy {
+  color: rgb(0, 153, 255);
+}
+i.fa-cloud-sun {
+  color: grey;
+}
+i.fa-cloud {
+  color: grey;
+}
+.weather-forecast {
+  border: 1px solid grey;
+  padding: 15px;
+  border-radius: 10px;
+  max-width: 500px;
+  padding-left: 40px;
+  padding-bottom: 30px;
+}
